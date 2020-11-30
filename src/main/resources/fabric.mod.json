@@ -3,7 +3,7 @@
 	"id": "jukefix",
 	"version": "${version}",
 	"name": "JukeFix",
-	"description": "Record Disc API for fixing common issues",
+	"description": "Fix record playing, and with easy disc adding",
 	"authors": [
 		"LudoCrypt"
 	],

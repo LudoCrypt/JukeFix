@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "net.ludocrypt.jukefix.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"MusicDiscAccessor"
+	],
+	"client": [
+		"SoundPlacementFix"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "jukefix",
+	"version": "${version}",
+	"name": "JukeFix",
+	"description": "Record Disc API for fixing common issues",
+	"authors": [
+		"LudoCrypt"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "LGPLv3",
+	"environment": "*",
+	"mixins": [
+		"jukefix.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.7.4",
+		"minecraft": "1.16.x"
+	}
+}
